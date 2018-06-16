@@ -1,0 +1,14 @@
+main {
+  background-Color: #eee;
+  padding: 3rem;
+}
+
+h3 {
+  text-align: center;
+}
+
+.friendContainer {
+  width: 100%;
+  max-width: 50rem;
+  margin: 0 auto;
+}
